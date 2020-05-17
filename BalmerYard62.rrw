@@ -537,16 +537,16 @@
 <trains selno="0" trk="0" dists="0">
 <trn t="6" id="2" dspeed="0" horntype="0">
 <cars>
-<car t="5" id="13" rect="17285,1995,18007,2305" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="" loadname="merchandise" cartype="boxcar rea 40" trk="203" dists="5389"></car>
-<car t="5" id="14" rect="16753,1993,17475,2305" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="" loadname="merchandise" cartype="boxcar rea 40" trk="203" dists="4857"></car>
-<car t="5" id="15" rect="16221,1992,16943,2304" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="" loadname="merchandise" cartype="boxcar rea 40" trk="203" dists="4325"></car>
-<car t="5" id="16" rect="15689,1993,16411,2303" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="" loadname="merchandise" cartype="boxcar rea 40" trk="203" dists="3793"></car>
-<car t="5" id="17" rect="15157,1991,15879,2303" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="" loadname="merchandise" cartype="boxcar rea 40" trk="203" dists="3261"></car>
-<car t="5" id="18" rect="14625,1992,15347,2302" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="" loadname="merchandise" cartype="boxcar rea 40" trk="203" dists="2729"></car>
-<car t="5" id="19" rect="14093,1990,14815,2302" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="" loadname="merchandise" cartype="boxcar rea 40" trk="203" dists="2197"></car>
-<car t="5" id="20" rect="13561,1991,14283,2301" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="" loadname="merchandise" cartype="boxcar rea 40" trk="203" dists="1665"></car>
-<car t="5" id="21" rect="13029,1990,13751,2300" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="" loadname="merchandise" cartype="boxcar rea 40" trk="203" dists="1133"></car>
-<car t="5" id="22" rect="12497,1988,13219,2300" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="" loadname="merchandise" cartype="boxcar rea 40" trk="203" dists="601"></car>
+<car t="5" id="13" rect="16995,1993,17717,2305" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="" loadname="merchandise" cartype="boxcar rea 40" trk="203" dists="5099"></car>
+<car t="5" id="14" rect="16463,1994,17185,2304" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="" loadname="merchandise" cartype="boxcar rea 40" trk="203" dists="4567"></car>
+<car t="5" id="15" rect="15931,1992,16653,2304" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="" loadname="merchandise" cartype="boxcar rea 40" trk="203" dists="4035"></car>
+<car t="5" id="16" rect="15399,1993,16121,2303" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="" loadname="merchandise" cartype="boxcar rea 40" trk="203" dists="3503"></car>
+<car t="5" id="17" rect="14867,1992,15589,2302" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="" loadname="merchandise" cartype="boxcar rea 40" trk="203" dists="2971"></car>
+<car t="5" id="18" rect="14335,1990,15057,2302" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="" loadname="merchandise" cartype="boxcar rea 40" trk="203" dists="2439"></car>
+<car t="5" id="19" rect="13803,1991,14525,2301" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="" loadname="merchandise" cartype="boxcar rea 40" trk="203" dists="1907"></car>
+<car t="5" id="20" rect="13271,1989,13993,2301" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="" loadname="merchandise" cartype="boxcar rea 40" trk="203" dists="1375"></car>
+<car t="5" id="21" rect="12739,1990,13461,2300" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="" loadname="merchandise" cartype="boxcar rea 40" trk="203" dists="843"></car>
+<car t="5" id="22" rect="12207,1988,12929,2300" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="" loadname="merchandise" cartype="boxcar rea 40" trk="203" dists="311"></car>
 </cars>
 </trn>
 <trn t="6" id="5" dspeed="0" horntype="0">
@@ -559,5 +559,5 @@
 <roadstyles>
 <roadstyle bktype="3" fill="R:200,G:200,B:200" bmap="hq_background\gray gravel.bmp" id="1" name="Default" rwid="240" showt="0" tlen="112" twid="10" tspc="24" tcolor="R:102,G:51,B:0" trkcol="R:192,G:110,B:0" trkwid="1" railcol="R:80,G:80,B:80" railsep="65" railwid="2" showrb="0" showra="0" showtr="1"></roadstyle>
 </roadstyles>
-<winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-13,y:-58" normpos="l:147,t:147,r:2897,b:1270" zoom="0.1305" ctr="x:12399,y:3312" vtype="16471"></winview>
+<winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-11,y:-45" normpos="l:147,t:147,r:2897,b:1270" zoom="0.1305" ctr="x:14353,y:3311" vtype="16471"></winview>
 </layout>
